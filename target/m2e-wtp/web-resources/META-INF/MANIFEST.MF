@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: Gowtham
 Build-Jdk: 10.0.1
+Implementation-Title: heroku Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gowtham
+Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
 
