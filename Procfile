@@ -1,1 +1,1 @@
-web: java -jar target/heroku-1.0.jar
+web: java -jar target/heroku-0.0.1-SNAPSHOT.war
