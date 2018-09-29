@@ -87,7 +87,7 @@
 <plugin>
   <groupId>com.heroku.sdk</groupId>
   <artifactId>heroku-maven-plugin</artifactId>
-  <version>0.5.1</version>
+  <version>2.0.6</version>
   <configuration>
     <appName>heroku</appName>
   </configuration>
